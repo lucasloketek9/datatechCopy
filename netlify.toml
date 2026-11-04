@@ -1,0 +1,10 @@
+# Netlify settings for this personal copy. Cloudflare ignores this file.
+[build]
+  command = "node build.mjs"
+  publish = "public"
+
+# Keep this copy out of search engines so it doesn't compete with datatech.com.ar.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex"
