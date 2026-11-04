@@ -17,7 +17,7 @@ Software de gestión para salud · Desde 1978
 
 # Software de gestión para instituciones de salud, todo en un solo sistema.
 
-Hospitales, sanatorios, laboratorios, centros de diagnóstico y empresas de medicina prepaga resuelven con Datatech toda su operatoria diaria: turnos, internación, facturación, historia clínica y auditoría.
+Para hospitales, sanatorios, laboratorios, centros de diagnóstico y prepagas. Funciona en la computadora y también desde el celular.
 
 Solicitar una demostración
 Ver soluciones
@@ -44,13 +44,13 @@ Cómo funciona
 
 ## La institución usa el sistema, el paciente recibe su información
 
-Los usuarios de Datatech son las instituciones de salud y sus profesionales. En el sistema se registran los datos de cada paciente, que se resguardan con el cuidado que exige la información de salud.
+Lo usan las instituciones de salud y sus profesionales, desde la computadora o el celular. Los datos de cada paciente quedan resguardados en el sistema.
 
 ### La institución
 Hospitales, sanatorios, laboratorios, centros de diagnóstico y prepagas gestionan en un solo sistema turnos, internación, facturación y auditoría.
 
 ### El profesional
-Atiende, registra la historia clínica y emite la receta electrónica desde el mismo sistema.
+Atiende, registra la historia clínica y emite la receta, también desde su celular.
 
 ### El paciente
 Recibe su receta, su medicación y sus informes por e-mail o WhatsApp, sin que nadie tenga que enviarlos a mano.
@@ -97,107 +97,6 @@ Recepción · Informes · Imágenes→
 Desde la afiliación del socio hasta el control de las prestaciones realizadas, en todas sus variantes.
 Afiliación · Autorizaciones · Auditoría→
 
-Cómo funciona
-
-## Un solo circuito, de la solicitud a la cobranza
-
-Los sistemas Datatech minimizan el ingreso de datos. A partir de la solicitud de cada prestación se van sumando los datos que forman la base de información de la institución, sin cargar dos veces lo mismo.
-
-Ver funcionalidades
-
-- 01
-### Turno
-Asignación de turnos y agenda de los profesionales.
-
-- 02
-### Admisión
-Recepción del paciente, cobertura y autorizaciones en línea.
-
-- 03
-### Atención
-Consultorios con cola de espera, internación, guardia y camas.
-
-- 04
-### Estudios
-Laboratorio y diagnóstico, con informes por e-mail.
-
-- 05
-### Facturación
-Prestaciones facturadas en todas las modalidades vigentes.
-
-- 06
-### Cobranza
-Cuentas corrientes, caja y liquidación de honorarios.
-
-## Conectado con todo lo que su institución usa
-
-Una gran cantidad de interfaces permite que los sistemas Datatech trabajen junto a financiadores, equipos y proveedores.
-
-Ver integraciones
-
-### Autorizaciones en línea
-Validación y autorización de prestaciones en línea con diversas prepagas y financiadores.
-
-### Equipos de laboratorio
-Interfaces automáticas para la carga de análisis y la recepción de resultados.
-
-### Precios de medicamentos
-Actualización de precios a partir de la información de los principales proveedores del mercado.
-
-### Contabilidad
-Interfaces contables, caja y bancos, y subdiarios de ventas y facturación.
-
-### E-mail y WhatsApp
-Recetas, protocolos e informes llegan al paciente por e-mail o WhatsApp, en forma automática.
-
-### Información de gestión
-Cada producto genera estadísticas que sirven de base para la toma de decisiones.
-
-## Lo acompañamos en cada etapa
-
-Los servicios se contratan en su totalidad o en las combinaciones que cada cliente necesite.
-
-Ver servicios
-
-Etapa 1
-### Análisis y planeamiento
-
-- Análisis de la situación
-- Planeamiento estratégico orientado a la implementación de sistemas informáticos
-
-Etapa 2
-### Implementación
-
-- Provisión de sistemas
-- Implementación
-- Capacitación
-
-Etapa 3
-### Evolución
-
-- Mantenimiento
-- Adecuación y adaptación de los sistemas
-- Desarrollo de módulos complementarios e interfaces
-- Diseño de aplicaciones especiales
-
-Calidad
-
-## Calidad certificada, vínculos que duran
-
-Nuestra política de la calidad pone la satisfacción del cliente en el centro: la atención técnica, la asistencia en cada fase de su evolución y las herramientas que proveemos.
-
-Conocer la política de la calidad
-
-Sistema de gestión de la calidad
-
-IRAM-ISO 9001:2015
-
-- Organismo: IRAM, Instituto Argentino de Normalización y Certificación
-
-- Registro: N.º 9000-2878
-
-Alcance: prestación de servicios de capacitación, implementación y soporte técnico de software para empresas de salud.
-
 ## Casos de clientes
 
 Sanatorios, clínicas y centros de diagnóstico que trabajan con los sistemas Datatech en su operatoria diaria.
@@ -216,21 +115,6 @@ Ciudad Autónoma de Buenos Aires
 ### Sanatorio de la Providencia
 Completó en 6 meses la fase administrativa de una puesta en marcha en dos etapas, llevada adelante por personal del sanatorio y de Datatech.
 Ver el caso
-
-Preguntas frecuentes
-## Preguntas sobre Datatech
-
-###
-### ¿Quién usa los sistemas Datatech?
-Los usan las instituciones de salud y sus profesionales: hospitales, sanatorios, clínicas, laboratorios, centros de diagnóstico y empresas de medicina prepaga. Más de 600 establecimientos trabajan con Datatech en todo el país.
-
-###
-### ¿Cómo recibe el paciente su receta?
-Cuando el profesional emite la receta electrónica en el sistema, el paciente la recibe automáticamente por e-mail o por WhatsApp, con la información de su medicación. Nadie tiene que enviarla a mano.
-
-###
-### ¿Cómo pido una demostración?
-Complete el formulario de contacto o llame al (54-11) 4374-1002.
 
 ## ¿Quiere ver cómo funciona en su institución?
 
@@ -1767,7 +1651,7 @@ La receta forma parte del mismo sistema donde la institución registra la atenci
 
 -
 ### El profesional emite la receta
-Durante la atención, prescribe la medicación desde el sistema. La receta queda registrada en la historia clínica del paciente.
+Durante la atención, desde la computadora o el celular. La receta queda registrada en la historia clínica del paciente.
 
 -
 ### El sistema la envía
