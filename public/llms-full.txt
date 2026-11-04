@@ -80,98 +80,66 @@ En forma automática, sin pasos manuales.
 Por e-mail o WhatsApp, con la información de su medicación.
 
 Funcionalidades
-## Un sistema, toda la institución.
 
-Elija un módulo para ver qué incluye.
+## Qué hace el sistema.
 
-Turnos y admisión→
-Historia clínica→
-Receta electrónica→
-Internación y guardia→
-Facturación→
-Honorarios→
-Laboratorio y diagnóstico→
-Información de gestión→
+Ocho módulos que comparten la misma información. Toque cada uno para ver el detalle.
 
-Atención
-### Menos filas, pacientes mejor atendidos.
+### 01Turnos y admisiónMenos filas en la recepción.
 Turnos web, autoadmisión con credencial y recepción en un mismo circuito.
 
 - Turnos web: el paciente reserva, consulta y cancela
 - Autoadmisión con credencial
 - Consultorios con cola de espera
 
-ImpactoMenos esperaSolo los pacientes con trámites pasan por la mesa de admisión.
-
-Registro clínico
-### Toda la historia del paciente, en un solo lugar.
-Cada consulta, internación y estudio queda registrado y disponible para el equipo de salud.
+### 02Historia clínicaToda la historia del paciente, en un lugar.
+Cada consulta, internación y estudio queda registrado para el equipo de salud.
 
 - Consultas médicas e internaciones
-- Protocolos de laboratorio y estudios diagnósticos
+- Protocolos de laboratorio y estudios
 - Medicación por nombre comercial y por droga
 
-ImpactoInformación únicaEl mismo dato acompaña al paciente en toda la institución.
-
-Prescripción
-### La receta llega sola al paciente.
-El profesional prescribe y el sistema se encarga del envío, sin pasos manuales.
+### 03Receta electrónicaLlega sola al paciente.
+El profesional prescribe y el sistema se encarga del envío.
 
 - Emisión desde la computadora o el celular
 - Envío automático por e-mail o WhatsApp
 - Registro en la historia clínica
 
-ImpactoSin envíos a manoEl profesional se concentra en la atención.
-
-Gestión asistencial
-### Camas, guardia y ambulatorio, bajo control.
+### 04Internación y guardiaCamas y pacientes, siempre al día.
 El sistema sigue al paciente desde la admisión hasta el alta.
 
 - Manejo de camas
 - Pacientes internados y ambulatorios
 - Guardia y consultorios
 
-ImpactoOcupación al díaDisponibilidad de camas en todo momento.
-
-Gestión económica
-### Facturar mejor, con menos débitos.
+### 05FacturaciónFacturar mejor, con menos débitos.
 Lo realizado se factura según las reglas de cada obra social y prepaga.
 
 - Facturación a obras sociales y prepagas
 - Autorizaciones en línea
-- Cuentas corrientes y cálculo del importe al paciente
+- Cuentas corrientes e importe a cobrar al paciente
 
-ImpactoMenos débitosCada prestación se valida antes de facturar.
-
-Profesionales
-### Honorarios liquidados donde se factura.
+### 06HonorariosLiquidados donde se factura.
 La liquidación sale de las mismas prestaciones facturadas.
 
 - Liquidación en distintas modalidades
 - Cuentas corrientes de profesionales
 - Caja, bancos e interfaces contables
 
-ImpactoSin doble cargaLo facturado y lo liquidado coinciden.
-
-Áreas técnicas
-### De la muestra al informe.
-Laboratorios y centros de diagnóstico trabajan conectados con el resto del sistema.
+### 07Laboratorio y diagnósticoDe la muestra al informe.
+Laboratorios y centros de diagnóstico, conectados con el resto del sistema.
 
 - Interfaces con equipos de laboratorio
 - Control de pacientes en áreas técnicas
 - Informes por e-mail
 
-ImpactoMenos carga manualLos resultados llegan del equipo al informe.
-
-Dirección
-### Datos claros para decidir.
-Cada módulo genera estadísticas para la dirección de la institución.
+### 08Información de gestiónDatos claros para decidir.
+Cada módulo genera estadísticas para la dirección.
 
 - Estadísticas por área
-- Tablero de comando con los ingresos de cada unidad
-- Información consolidada de varias sedes
-
-ImpactoUna misma verdadToda la institución mira los mismos números.
+- Tablero de comando por unidad
+- Información de varias sedes, consolidada
 
 Soluciones
 ## Un sistema para cada institución.
