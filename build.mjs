@@ -158,7 +158,7 @@ for (const file of pages) {
     crumbs: crumbsHtml(meta.crumbs),
     faq: faqHtml(meta.faq, meta.faqTitle, meta.faqMist),
   };
-  for (const key of ['soluciones', 'servicios', 'casos', 'recursos', 'empresa', 'contacto']) {
+  for (const key of ['soluciones', 'servicios', 'casos', 'empresa', 'contacto']) {
     vars[`cur_${key}`] = nav === key ? ' aria-current="page"' : '';
   }
   const main = fill(body, vars);

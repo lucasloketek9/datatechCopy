@@ -23,18 +23,12 @@ Contacto: Av. Córdoba 1184, 5º piso (C1055AAO), Ciudad Autónoma de Buenos Air
 - [Facturación a obras sociales y prepagas](https://www.datatech.com.ar/funcionalidades/facturacion-a-obras-sociales-y-prepagas/): Software de facturación a obras sociales y prepagas para sanatorios, clínicas, laboratorios y centros de diagnóstico, con cuentas corrientes y subdiarios.
 - [Historia clínica electrónica para sanatorios](https://www.datatech.com.ar/funcionalidades/historia-clinica-electronica/): Historia clínica electrónica para sanatorios y clínicas: consultas, internaciones, protocolos de laboratorio y estudios diagnósticos en el sistema Datatech.
 - [Software de liquidación de honorarios médicos](https://www.datatech.com.ar/funcionalidades/liquidacion-de-honorarios-medicos/): Liquidación de honorarios médicos en el mismo sistema que factura las prestaciones, para hospitales, sanatorios y centros de diagnóstico de Argentina.
+- [Receta electrónica con envío por e-mail y WhatsApp](https://www.datatech.com.ar/funcionalidades/receta-electronica/): El profesional emite la receta electrónica en el sistema Datatech y el paciente la recibe automáticamente por e-mail o WhatsApp, con la información de su medicación.
 - [Turnos online y autoadmisión para clínicas](https://www.datatech.com.ar/funcionalidades/turnos-web-y-autoadmision/): Turnos web, autoadmisión con credencial y recepción de pacientes en los sistemas Datatech para clínicas, sanatorios y centros de diagnóstico.
 - [Autorizaciones en línea e integraciones](https://www.datatech.com.ar/integraciones/): Interfaces de Datatech para prestadores de salud: autorizaciones en línea con Traditum y Sancor Salud, factura electrónica ARCA, medicamentos y laboratorio.
 - [Implementación de sistemas de gestión en salud](https://www.datatech.com.ar/servicios/): Implementación de sistemas de gestión en sanatorios, clínicas, laboratorios y prepagas: análisis, planeamiento, capacitación, soporte y desarrollos a medida.
 - [Calidad y certificación IRAM-ISO 9001:2015](https://www.datatech.com.ar/calidad/): Datatech S.A. tiene su sistema de gestión de la calidad certificado por IRAM bajo IRAM-ISO 9001:2015, registro 9000-2878. Alcance y política de la calidad.
 - [Trabaje con nosotros](https://www.datatech.com.ar/trabaje-con-nosotros/): Deje sus datos y su CV en Datatech para futuras búsquedas en el desarrollo de software de gestión para sanatorios, clínicas, laboratorios y prepagas.
-
-## Guías
-
-- [Guías y recursos: sistemas de gestión en salud](https://www.datatech.com.ar/recursos/): Guías para directivos de sanatorios, clínicas y hospitales sobre qué es un sistema de gestión hospitalaria (HIS), cómo elegirlo y cómo implementarlo por etapas.
-- [Cómo elegir un sistema de gestión para sanatorios](https://www.datatech.com.ar/recursos/como-elegir-un-sistema-de-gestion-para-sanatorios/): Guía para directores de sanatorios y clínicas: qué evaluar en un sistema de gestión, qué preguntar a cada proveedor y qué errores evitar al elegir.
-- [Cómo implementar un sistema de gestión en salud](https://www.datatech.com.ar/recursos/como-implementar-un-sistema-de-gestion-en-salud/): Guía para implementar o migrar un sistema de gestión en sanatorios y clínicas: análisis, planeamiento, puesta en marcha por fases, capacitación y mantenimiento.
-- [Qué es un sistema de gestión hospitalaria (HIS)](https://www.datatech.com.ar/recursos/que-es-un-sistema-de-gestion-hospitalaria/): Qué es un sistema de gestión hospitalaria (HIS), qué módulos debe tener, qué circuitos conecta y en qué se diferencia de un LIS y de un sistema de diagnóstico.
 
 ## Optional
 
