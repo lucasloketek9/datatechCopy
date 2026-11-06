@@ -17,7 +17,7 @@ Software de gestión para salud · Desde 1978
 
 # Toda su institución, en un solo sistema.
 
-Turnos, internación, historia clínica, receta electrónica y facturación, conectados. Desde la computadora o el celular.
+Turnos, internación, historia clínica, receta electrónica y facturación, conectados. Las plataformas web también se usan desde el celular.
 
 Solicitar una demostración
 Ver soluciones
@@ -47,13 +47,13 @@ Por qué Datatech
 Turnos, atención, internación, facturación y honorarios, todo conectado.
 
 ### Receta electrónica
-El paciente la recibe sola, por e-mail o WhatsApp.
+El paciente la recibe apenas se emite, por e-mail o WhatsApp.
 
-### Desde el celular
-Profesionales y equipos trabajan desde la computadora o el teléfono.
+### Plataformas web
+Las plataformas web de Datatech también se usan desde el celular.
 
-### Datos protegidos
-La información de cada paciente queda resguardada en el sistema.
+### E-mail o WhatsApp
+Recordatorios, indicaciones e informes de laboratorio y diagnóstico llegan al paciente.
 
 ### Se carga una vez
 Cada dato acompaña al paciente del turno a la facturación.
@@ -65,19 +65,19 @@ Receta electrónica
 
 ## La receta llega sola, por e-mail o WhatsApp.
 
-El profesional la emite y el sistema hace el resto. Nadie tiene que enviarla a mano.
+El profesional la emite desde el sistema Datatech y el paciente la recibe en el momento. Nadie tiene que enviarla a mano.
 
 -
 ### El profesional emite la receta
-Desde la computadora o el celular, durante la consulta.
+Desde el sistema Datatech, durante la consulta.
 
 -
 ### El sistema la envía
-En forma automática, sin pasos manuales.
+De inmediato, en el momento de la emisión.
 
 -
 ### El paciente la recibe
-Por e-mail o WhatsApp, con la información de su medicación.
+Por e-mail o WhatsApp, y también la encuentra en el portal del paciente.
 
 Funcionalidades
 
@@ -100,11 +100,11 @@ Cada consulta, internación y estudio queda registrado para el equipo de salud.
 - Medicación por nombre comercial y por droga
 
 ### 03Receta electrónicaLlega sola al paciente.
-El profesional prescribe y el sistema se encarga del envío.
+El profesional la emite y el paciente la recibe en el momento.
 
-- Emisión desde la computadora o el celular
-- Envío automático por e-mail o WhatsApp
-- Registro en la historia clínica
+- Emisión desde el sistema Datatech
+- Envío inmediato por e-mail o WhatsApp
+- Disponible en el portal del paciente
 
 ### 04Internación y guardiaCamas y pacientes, siempre al día.
 El sistema sigue al paciente desde la admisión hasta el alta.
@@ -132,7 +132,7 @@ Laboratorios y centros de diagnóstico, conectados con el resto del sistema.
 
 - Interfaces con equipos de laboratorio
 - Control de pacientes en áreas técnicas
-- Informes por e-mail
+- Informes al paciente por e-mail o WhatsApp
 
 ### 08Información de gestiónDatos claros para decidir.
 Cada módulo genera estadísticas para la dirección.
@@ -235,6 +235,10 @@ DirecciónAv. Córdoba 1184, 5º piso
 C1055AAO · Ciudad Autónoma de Buenos Aires
 
 Teléfono(54-11) 4374-1002
+
+WhatsApp11 5353-1980
+
+E-mailinfo@datatech.com.ar
 
 ¿Ya es cliente?Ingrese al Área de clientes o llame a Soporte Técnico.
 

@@ -587,3 +587,10 @@ div.sol-card h3 { padding-right: 0; }
   .mod-plus { grid-column: 3; grid-row: 1; }
   .mod-body { grid-template-columns: 1fr; gap: 14px; padding: 0 0 22px 48px; }
 }
+
+/* Dark contact section at the end of the page */
+.section-ink { background: var(--ink); }
+.section-ink .section-head .h2, .section-ink .section-head .h2 b { color: var(--white); }
+.section-ink .section-head .lead { color: rgba(255,255,255,.72); }
+.section-ink .section-head .eyebrow { color: #88DFC1; }
+.section-ink + .site-footer, main:has(> .section-ink:last-child) + .site-footer { margin-top: 0; border-top: 1px solid rgba(255,255,255,.08); }
