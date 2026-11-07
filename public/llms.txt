@@ -1,6 +1,6 @@
 # Datatech S.A.
 
-> Empresa argentina de software de gestión para instituciones de salud. Fundada en 1978 en Buenos Aires y dedicada exclusivamente a la salud desde 1987. Desarrolla sistemas para hospitales y sanatorios, laboratorios de análisis clínicos, centros de diagnóstico y empresas de medicina prepaga, y presta servicios de implementación, capacitación, soporte y desarrollo. Más de 600 establecimientos asistenciales usan sus sistemas. Sistema de gestión de la calidad certificado por IRAM bajo la norma IRAM-ISO 9001:2015.
+> Empresa argentina de software de gestión para instituciones de salud. Con sede en Buenos Aires y más de 30 años en la industria de la salud. Desarrolla sistemas para hospitales y sanatorios, laboratorios de análisis clínicos, centros de diagnóstico y empresas de medicina prepaga, y presta servicios de implementación, capacitación, soporte y desarrollo. Más de 600 establecimientos asistenciales usan sus sistemas. Certificación de calidad ISO 9001 vigente.
 
 No confundir con otras empresas llamadas Datatech de otros países o rubros: esta es Datatech S.A., de Buenos Aires, Argentina, especializada en software para salud.
 

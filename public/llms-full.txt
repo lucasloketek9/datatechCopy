@@ -1,6 +1,6 @@
 # Datatech S.A.
 
-> Empresa argentina de software de gestión para instituciones de salud. Fundada en 1978 en Buenos Aires y dedicada exclusivamente a la salud desde 1987. Desarrolla sistemas para hospitales y sanatorios, laboratorios de análisis clínicos, centros de diagnóstico y empresas de medicina prepaga, y presta servicios de implementación, capacitación, soporte y desarrollo. Más de 600 establecimientos asistenciales usan sus sistemas. Sistema de gestión de la calidad certificado por IRAM bajo la norma IRAM-ISO 9001:2015.
+> Empresa argentina de software de gestión para instituciones de salud. Con sede en Buenos Aires y más de 30 años en la industria de la salud. Desarrolla sistemas para hospitales y sanatorios, laboratorios de análisis clínicos, centros de diagnóstico y empresas de medicina prepaga, y presta servicios de implementación, capacitación, soporte y desarrollo. Más de 600 establecimientos asistenciales usan sus sistemas. Certificación de calidad ISO 9001 vigente.
 
 No confundir con otras empresas llamadas Datatech de otros países o rubros: esta es Datatech S.A., de Buenos Aires, Argentina, especializada en software para salud.
 
@@ -11,13 +11,13 @@ Contacto: Av. Córdoba 1184, 5º piso (C1055AAO), Ciudad Autónoma de Buenos Air
 
 URL: https://www.datatech.com.ar/
 Título: Software de gestión para instituciones de salud · Datatech
-Resumen: Sistema de gestión para hospitales, sanatorios, laboratorios, centros de diagnóstico y prepagas. Receta electrónica por e-mail o WhatsApp. Más de 600 establecimientos, desde 1978.
+Resumen: Sistema de gestión para hospitales, sanatorios, laboratorios, centros de diagnóstico y prepagas. Receta electrónica por e-mail o WhatsApp. Más de 30 años en la industria de la salud.
 
-Software de gestión para salud · Desde 1978
+Software de gestión para salud · Más de 30 años
 
 # Toda su institución, en un solo sistema.
 
-Turnos, internación, historia clínica, receta electrónica y facturación, conectados. Las plataformas web también se usan desde el celular.
+Con la experiencia de más de 30 años en la industria de la salud. Desde el celular o la computadora, profesionales y pacientes realizan las gestiones más relevantes.
 
 Solicitar una demostración
 Ver soluciones
@@ -34,23 +34,23 @@ Ver soluciones
 
 +600establecimientos de salud
 
-1978en el software, desde 1987 en salud
++30años en la industria de la salud
 
-ISO 9001:2015certificación IRAM
+ISO 9001certificación de calidad vigente
 
 4tipos de institución
 
 Por qué Datatech
-## Menos trabajo manual, más control.
+## Automatización de los procesos, de manera ágil y controlada.
 
 ### Una sola plataforma
 Turnos, atención, internación, facturación y honorarios, todo conectado.
 
 ### Receta electrónica
-El paciente la recibe apenas se emite, por e-mail o WhatsApp.
+El profesional prescribe y el paciente la recibe al instante, por e-mail o WhatsApp.
 
-### Plataformas web
-Las plataformas web de Datatech también se usan desde el celular.
+### Celular o computadora
+Desde el dispositivo móvil o desde la computadora, profesionales y pacientes pueden realizar las gestiones más relevantes.
 
 ### E-mail o WhatsApp
 Recordatorios, indicaciones e informes de laboratorio y diagnóstico llegan al paciente.
@@ -65,11 +65,11 @@ Receta electrónica
 
 ## La receta llega sola, por e-mail o WhatsApp.
 
-El profesional la emite desde el sistema Datatech y el paciente la recibe en el momento. Nadie tiene que enviarla a mano.
+El profesional prescribe por nuestra plataforma y el paciente la recibe al instante, ya sea por e-mail o WhatsApp.
 
 -
-### El profesional emite la receta
-Desde el sistema Datatech, durante la consulta.
+### El profesional prescribe
+Por nuestra plataforma, durante la consulta.
 
 -
 ### El sistema la envía
@@ -177,7 +177,7 @@ Buenos Aires
 Córdoba
 
 Implementación
-## Lo acompañamos en cada etapa.
+## Siempre acompañando a nuestros clientes y usuarios, de manera profesional y comprometida.
 
 01
 ### Análisis
@@ -240,7 +240,7 @@ WhatsApp11 5353-1980
 
 E-mailinfo@datatech.com.ar
 
-¿Ya es cliente?Ingrese al Área de clientes o llame a Soporte Técnico.
+¿Ya es cliente?Llame a Soporte Técnico al (54-11) 4374-1002.
 
 ---
 

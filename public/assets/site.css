@@ -594,3 +594,7 @@ div.sol-card h3 { padding-right: 0; }
 .section-ink .section-head .lead { color: rgba(255,255,255,.72); }
 .section-ink .section-head .eyebrow { color: #88DFC1; }
 .section-ink + .site-footer, main:has(> .section-ink:last-child) + .site-footer { margin-top: 0; border-top: 1px solid rgba(255,255,255,.08); }
+
+/* Client area: shown but not linked for now */
+span.nav-client { cursor: default; color: var(--slate-2); }
+span.nav-client:hover { text-decoration: none; }
