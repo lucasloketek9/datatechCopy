@@ -23,6 +23,8 @@ const TODAY = new Date().toISOString().slice(0, 10);
 // Links that live outside this site. The client area runs on Datatech's existing server.
 const CONFIG = {
   clientArea: 'https://www.datatech.com.ar/jornada_de_actualizacion.asp',
+  // Link to the ISO 9001:2015 certificate PDF. Leave empty to show the text without a link.
+  isoCert: '',
   phone: '(54-11) 4374-1002',
   phoneHref: 'tel:+541143741002',
   address: 'Av. Córdoba 1184, 5º piso',
@@ -41,14 +43,14 @@ const ORG = {
   url: SITE + '/',
   logo: { '@type': 'ImageObject', url: SITE + '/apple-touch-icon.png', width: 180, height: 180 },
   image: SITE + '/og.jpg',
-  description: 'Empresa argentina de software de gestión para instituciones de salud: hospitales, sanatorios, laboratorios de análisis clínicos, centros de diagnóstico y empresas de medicina prepaga. Con más de 30 años en la industria de la salud.',
+  description: 'Empresa argentina de software de gestión para instituciones de salud: hospitales, sanatorios, laboratorios de análisis clínicos, centros de diagnóstico y empresas de medicina prepaga. Con más de 40 años en la industria de la salud.',
   disambiguatingDescription: 'Datatech S.A. es una empresa argentina con sede en Buenos Aires que desarrolla software de gestión para instituciones de salud. No está relacionada con otras empresas llamadas Datatech de otros países o rubros.',
   telephone: '+54 11 4374-1002',
   contactPoint: { '@type': 'ContactPoint', contactType: 'customer service', telephone: '+54 11 4374-1002', areaServed: 'AR', availableLanguage: 'es' },
   address: { '@type': 'PostalAddress', streetAddress: 'Av. Córdoba 1184, 5º piso', postalCode: 'C1055AAO', addressLocality: 'Ciudad Autónoma de Buenos Aires', addressRegion: 'CABA', addressCountry: 'AR' },
   areaServed: { '@type': 'Country', name: 'Argentina' },
   knowsAbout: ['Software de gestión hospitalaria', 'Sistemas para sanatorios', 'Sistemas para laboratorios de análisis clínicos', 'Sistemas para centros de diagnóstico', 'Sistemas para medicina prepaga', 'Facturación de prestaciones médico-asistenciales', 'Liquidación de honorarios médicos', 'Historia clínica', 'Autorizaciones en línea'],
-  hasCertification: { '@type': 'Certification', name: 'ISO 9001', certificationIdentification: '9000-2878', issuedBy: { '@type': 'Organization', name: 'IRAM, Instituto Argentino de Normalización y Certificación', url: 'https://www.iram.org.ar' } },
+  hasCertification: { '@type': 'Certification', name: 'ISO 9001:2015', certificationIdentification: '9000-2878', issuedBy: { '@type': 'Organization', name: 'IRAM, Instituto Argentino de Normalización y Certificación', url: 'https://www.iram.org.ar' } },
   sameAs: ['https://www.facebook.com/sistemasdatatech', 'https://www.linkedin.com/company/datatechsa'],
 };
 const WEBSITE = { '@type': 'WebSite', '@id': SITE + '/#sitio', url: SITE + '/', name: 'Datatech', inLanguage: 'es-AR', publisher: { '@id': ORG['@id'] } };
@@ -154,6 +156,7 @@ for (const file of pages) {
     jsonld: meta.noindex ? '' : jsonLd(meta, url),
     flow: partials.flow,
     cta: fill(partials.cta, CONFIG),
+    isoLink: CONFIG.isoCert ? ` · <a class="inline" href="${CONFIG.isoCert}" target="_blank" rel="noopener">Ver certificado</a>` : '',
     crumbs: crumbsHtml(meta.crumbs),
     faq: faqHtml(meta.faq, meta.faqTitle, meta.faqMist),
   };
@@ -183,7 +186,7 @@ writeFileSync(
 const group = (pred) => built.filter(pred).map((p) => `- [${p.meta.title.replace(/ · Datatech$/, '')}](${p.url}): ${p.meta.description}`).join('\n');
 const intro = `# Datatech S.A.
 
-> Empresa argentina de software de gestión para instituciones de salud. Con sede en Buenos Aires y más de 30 años en la industria de la salud. Desarrolla sistemas para hospitales y sanatorios, laboratorios de análisis clínicos, centros de diagnóstico y empresas de medicina prepaga, y presta servicios de implementación, capacitación, soporte y desarrollo. Más de 600 establecimientos asistenciales usan sus sistemas. Certificación de calidad ISO 9001 vigente.
+> Empresa argentina de software de gestión para instituciones de salud. Con sede en Buenos Aires y más de 40 años en la industria de la salud. Desarrolla sistemas para hospitales y sanatorios, laboratorios de análisis clínicos, centros de diagnóstico y empresas de medicina prepaga, y presta servicios de implementación, capacitación, soporte y desarrollo. Más de 60 establecimientos asistenciales usan sus sistemas. Certificación de calidad ISO 9001:2015.
 
 No confundir con otras empresas llamadas Datatech de otros países o rubros: esta es Datatech S.A., de Buenos Aires, Argentina, especializada en software para salud.
 

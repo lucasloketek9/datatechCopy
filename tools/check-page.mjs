@@ -2,7 +2,7 @@
 // Checks the metadata comment, placeholders, headings, and SEO lengths. Exits 1 on errors.
 import { readFileSync } from 'node:fs';
 
-const KNOWN = ['crumbs', 'faq', 'cta', 'flow', 'phone', 'phoneHref', 'address', 'city', 'maps', 'clientArea', 'year'];
+const KNOWN = ['crumbs', 'faq', 'cta', 'flow', 'phone', 'phoneHref', 'address', 'city', 'maps', 'clientArea', 'year', 'isoLink'];
 const file = process.argv[2];
 const src = readFileSync(file, 'utf8');
 const errors = [], warnings = [];
