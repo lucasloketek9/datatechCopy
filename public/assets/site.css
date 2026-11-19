@@ -598,3 +598,22 @@ div.sol-card h3 { padding-right: 0; }
 /* Client area: shown but not linked for now */
 span.nav-client { cursor: default; color: var(--slate-2); }
 span.nav-client:hover { text-decoration: none; }
+
+/* Hero brand panel (replaces stock photo) */
+.hero-art { display: grid; place-items: center; width: 100%; aspect-ratio: 1 / 1.06; border-radius: var(--r-lg); background: radial-gradient(120% 90% at 80% 10%, var(--teal-wash), transparent 60%), linear-gradient(160deg, var(--mist), #E6EEF3); overflow: hidden; }
+.hero-art img { width: 34%; height: auto; opacity: .9; }
+.lead.lead-sm { font-size: 16px; margin-top: 12px; }
+@media (max-width: 900px) { .hero-art { aspect-ratio: 4 / 3; } }
+
+/* Quality policy, expandable under the stats */
+.qpolicy { border-top: 0; }
+.qpolicy summary { grid-template-columns: minmax(0, 1fr) 24px; padding: 18px 0; }
+.qpolicy-body { padding: 0 0 24px; max-width: 820px; }
+.qpolicy-body ol { padding-left: 20px; list-style: decimal; display: grid; gap: 10px; color: var(--slate); font-size: 15.5px; }
+.qpolicy-body li::marker { color: var(--teal); font-weight: 600; }
+
+/* Products list: single-column body, static rows */
+.mod-body.mod-body-1 { grid-template-columns: 1fr; }
+.mod-static { display: grid; grid-template-columns: 40px minmax(0, 1fr) minmax(0, 1.2fr) 24px; gap: 16px; align-items: center; padding: 22px 0; }
+.section-mist .mod-plus { background: var(--white); }
+@media (max-width: 900px) { .mod-static { grid-template-columns: 32px minmax(0, 1fr) 24px; } }
