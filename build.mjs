@@ -24,7 +24,7 @@ const TODAY = new Date().toISOString().slice(0, 10);
 const CONFIG = {
   clientArea: 'https://www.datatech.com.ar/jornada_de_actualizacion.asp',
   // Link to the ISO 9001:2015 certificate PDF. Leave empty to show the text without a link.
-  isoCert: '',
+  isoCert: 'https://www.datatech.com.ar/documentaciones/datatECH%20S.A.%209001%20iram.pdf',
   phone: '(54-11) 4374-1002',
   phoneHref: 'tel:+541143741002',
   address: 'Av. Córdoba 1184, 5º piso',
