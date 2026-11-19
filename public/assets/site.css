@@ -617,3 +617,10 @@ span.nav-client:hover { text-decoration: none; }
 .mod-static { display: grid; grid-template-columns: 40px minmax(0, 1fr) minmax(0, 1.2fr) 24px; gap: 16px; align-items: center; padding: 22px 0; }
 .section-mist .mod-plus { background: var(--white); }
 @media (max-width: 900px) { .mod-static { grid-template-columns: 32px minmax(0, 1fr) 24px; } }
+
+/* Number row: three figures fill the width */
+.stats { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+@media (max-width: 900px) {
+  .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .stats > div:nth-child(3) { grid-column: 1 / -1; }
+}
