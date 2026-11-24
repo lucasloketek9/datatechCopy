@@ -17,7 +17,9 @@ Software de gestión para instituciones de salud · Más de 40 años de experien
 
 # Herramientas para dar continuidad a la atención.
 
-Con la solidez de un producto integral que abarca la gestión actual que requieren las empresas de salud, instituciones, profesionales y pacientes contarán con las herramientas necesarias para dar continuidad a su atención.
+Soluciones integrales para la salud, desarrolladas por especialistas.
+
+Con la solidez de un producto que abarca la gestión actual que requieren las empresas de salud, instituciones, profesionales y pacientes contarán con las herramientas necesarias para dar continuidad a su atención.
 
 Incorporamos de manera constante las actualizaciones que requiere el mercado. Nos preocupamos por llegar de manera ágil y efectiva a nuestros clientes, brindando productos de vanguardia y atención de calidad.
 
@@ -157,7 +159,7 @@ Productos
 
 Soluciones diferenciadas para cada punto de atención. Toque cada una para ver el detalle.
 
-### 01PortalesPacientes · Profesionales · Instituciones · Prepagos
+### 01PortalesAutogestión para cada entidad.
 
 - Pacientes
 - Profesionales

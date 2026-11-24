@@ -25,6 +25,8 @@ document.addEventListener('DOMContentLoaded', () => {
     document.body.classList.toggle('menu-open', open);
   };
   menuToggle?.addEventListener('click', () => setMenu(!menu.classList.contains('is-open')));
+  // Close the mobile menu when one of its links is tapped, so the page can scroll to that section.
+  menu?.querySelectorAll('a').forEach((a) => a.addEventListener('click', () => { if (menu.classList.contains('is-open')) setMenu(false); }));
 
   // Solutions submenu (click and keyboard; hover is handled in CSS on desktop).
   const setSub = (open) => {
