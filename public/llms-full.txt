@@ -15,9 +15,7 @@ Resumen: Sistema de gestión para hospitales, sanatorios, laboratorios, centros 
 
 Software de gestión para instituciones de salud · Más de 40 años de experiencia
 
-# Herramientas para dar continuidad a la atención.
-
-Soluciones integrales para la salud, desarrolladas por especialistas.
+# Soluciones integrales para la salud, desarrolladas por especialistas.
 
 Con la solidez de un producto que abarca la gestión actual que requieren las empresas de salud, instituciones, profesionales y pacientes contarán con las herramientas necesarias para dar continuidad a su atención.
 
